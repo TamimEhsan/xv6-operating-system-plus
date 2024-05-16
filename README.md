@@ -6,6 +6,8 @@ Code-base of xv6: https://github.com/mit-pdos/xv6-riscv
 
 You need to apply the patch files to the original xv6 codebase as an extension to the base OS.
 
+`git apply /path/to/some-changes.patch`
+
 
 ### Contents
 The main aim for this is to practise kernel level implementations of a simple OS that is xv6. 
